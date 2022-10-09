@@ -1,8 +1,6 @@
 # romantic-alexa
 ## Build an Artificial Assistant
 
-### Full tutorial (video)
-To watch the tutorial, click on the image below
 
 ## Installation
 ### For windows users
